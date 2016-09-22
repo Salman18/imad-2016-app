@@ -7,5 +7,6 @@ element.innerHTML="HI,I am salman ,welocme to WEB APP";
 //move image
 var img=document.getElementById("madi");
 img.onclick=function(){
+
     img.style.marginLeft="100px";
 };
